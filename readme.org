@@ -1,0 +1,3 @@
+#+title:Fashion MNIST Image Classification using CNN
+
+Image Classification on the Fashion MNIST Dataset. Achieved 94% train accuracy and 91% test accuracy. 
